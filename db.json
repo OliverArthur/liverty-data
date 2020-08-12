@@ -1,0 +1,75 @@
+{
+  "id": "my_area_collections",
+  "data": [{
+    "id": "movies_for_you",
+    "title": "Movies for you",
+    "type": "assets",
+    "assets": [{
+      "id": "the_descendants",
+      "title": "The Descendants",
+      "url": "/asset_descendants",
+      "genre": "Crime",
+      "type": "1",
+      "imdb": "7.4",
+      "img": "https://image.tmdb.org/t/p/original/5lpBvuPNaPiOpitehczWmJgf6wb.jpg"
+    }, {
+      "id": "avatar",
+      "title": "Avatar",
+      "url": "/series_breaking_bad",
+      "genre": "Action",
+      "type": "1",
+      "imdb": "5.7",
+      "img": "https://image.tmdb.org/t/p/original/tcqb9NHdw9SWs2a88KCDD4V8sVR.jpg"
+    }, {
+      "id": "argo",
+      "title": "Argo",
+      "genre": "Crime",
+      "type": "1",
+      "imdb": "8.7",
+      "img": "https://image.tmdb.org/t/p/original/oai3xLBQHpIh18VJdRCcL7D0Yg0.jpg"
+    }, {
+      "id": "quantum_of_solace",
+      "title": "Quantum of Solace",
+      "genre": "Action",
+      "type": "1",
+      "imdb": "5.4",
+      "img": "https://image.tmdb.org/t/p/original/6mlNx0Jiqhg3D7NlANT9pidsgPJ.jpg"
+    }, {
+      "id": "slumdog_millionaire",
+      "title": "Slumdog Millionaire",
+      "genre": "Drama",
+      "type": "1",
+      "imdb": "7.2",
+      "img": "https://image.tmdb.org/t/p/original/gWE4R4DjcUlXX1VNBO4DjzdtNXW.jpg"
+    }, {
+      "id": "The_Kings_speech",
+      "title": "The King's speech",
+      "genre": "Drama",
+      "type": "1",
+      "imdb": "7.4",
+      "img": "https://image.tmdb.org/t/p/original/nkFTbA1XjKWo9LCTaV1hV2Lsgr1.jpg"
+    }, {
+      "id": "Good_Night_and_Good_Luck",
+      "title": "Good Night, and Good Luck.",
+      "genre": "Drama",
+      "type": "1",
+      "imdb": "7.4",
+      "img": "https://image.tmdb.org/t/p/original/2sW2FVIvrYs4NbYKMitjogeFw84.jpg"
+    }, {
+      "id": "Brick_Mansions",
+      "title": "Brick Mansions",
+      "genre": "Action",
+      "type": "1",
+      "imdb": "7.4",
+      "img": "https://image.tmdb.org/t/p/original/v6M79FGu0G9KSR7bvXL76NbwyqC.jpg"
+    }, {
+      "id": "Breaking_Bad",
+      "title": "Breaking Bad",
+      "genre": "Crime",
+      "type": "1",
+      "imdb": "7.4",
+      "url": "/series_breaking_bad",
+      "img": "https://image.tmdb.org/t/p/original/1yeVJox3rjo2jBKrrihIMj7uoS9.jpg"
+    }]
+  }]
+}
